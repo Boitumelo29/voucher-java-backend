@@ -32,9 +32,7 @@ A Spring Boot backend for generating and redeeming unique 10-digit voucher codes
 - Maven
 - IntelliJ / VS Code / Terminal
 
-### Clone the Repository
-git clone https://github.com/yourusername/voucher-java-backend.git
-cd voucher-java-backend
+
 
 
 Run the App
